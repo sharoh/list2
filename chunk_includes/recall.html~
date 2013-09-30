@@ -1,0 +1,7 @@
+<div style="width: 40em;">
+
+
+  <td>Enter first three items:</td><td><input name="current" type="text" size="30" class="obligatory" /></td>
+
+
+</div>

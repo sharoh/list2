@@ -1,0 +1,274 @@
+#
+# Results on Saturday April 20 2013 06:34:29 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,name,da
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,age,55
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,write_something,
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,credit,no
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,consent,yes
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,sex,male
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,0,0,intro,NULL,_REACTION_TIME_,5585
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Reading time.
+#     Col. 9: Word number.
+#     Col. 10: Word.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,FlashSentence,1,0,item1,1,trash ----- bash ----- gash
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,1,1,item1,1,1,499,2,51,3,50,4,50,5,51,1,The student,False,The student-thought that-the professor-was too late-for the important meeting.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Reading time.
+# 9. Word number.
+# 10. Word.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,1,1,item1,1,1,499,2,51,3,50,4,50,5,51,2,thought that,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,1,1,item1,1,1,499,2,51,3,50,4,50,5,51,3,the professor,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,1,1,item1,1,1,499,2,51,3,50,4,50,5,51,4,was too late,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,1,1,item1,1,1,499,2,51,3,50,4,50,5,51,5,for the important meeting.,False,The student-thought that-the professor-was too late-for the important meeting.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Question,1,2,item1,1,_____was too late,No,0,651
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,1,3,item1,1,current,we
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,1,3,item1,1,current,we
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,1,3,item1,1,current,we
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,1,3,item1,1,_REACTION_TIME_,2687
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Reading time.
+#     Col. 9: Word number.
+#     Col. 10: Word.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,FlashSentence,5,0,item2,2,crude ----- bro ----- go
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,5,1,item2,2,1,499,2,51,3,50,4,50,5,51,1,The student,False,The student-thought that-the professor-was too late-for the important meeting.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Reading time.
+# 9. Word number.
+# 10. Word.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,5,1,item2,2,1,499,2,51,3,50,4,50,5,51,2,thought that,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,5,1,item2,2,1,499,2,51,3,50,4,50,5,51,3,the professor,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,5,1,item2,2,1,499,2,51,3,50,4,50,5,51,4,was too late,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,5,1,item2,2,1,499,2,51,3,50,4,50,5,51,5,for the important meeting.,False,The student-thought that-the professor-was too late-for the important meeting.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Question,5,2,item2,2,_____was too late,The dog,0,820
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,5,3,item2,2,current,2e
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,5,3,item2,2,current,we
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,5,3,item2,2,current,sd
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,5,3,item2,2,_REACTION_TIME_,3245
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Reading time.
+#     Col. 9: Word number.
+#     Col. 10: Word.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,FlashSentence,9,0,item3,3,peepee ----- weewee ----- heehee
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,9,1,item3,3,1,499,2,51,3,50,4,50,5,51,1,The student,False,The student-thought that-the professor-was too late-for the important meeting.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Reading time.
+# 9. Word number.
+# 10. Word.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,9,1,item3,3,1,499,2,51,3,50,4,50,5,51,2,thought that,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,9,1,item3,3,1,499,2,51,3,50,4,50,5,51,3,the professor,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,9,1,item3,3,1,499,2,51,3,50,4,50,5,51,4,was too late,False,The student-thought that-the professor-was too late-for the important meeting.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,DashedSentence,9,1,item3,3,1,499,2,51,3,50,4,50,5,51,5,for the important meeting.,False,The student-thought that-the professor-was too late-for the important meeting.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Question,9,2,item3,3,_____was too late,No,0,732
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,9,3,item3,3,current,23
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,9,3,item3,3,current,23
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,9,3,item3,3,current,232
+1366439670,b33a9c9fd09ce8b85aaf94f4e54a7801,Form,9,3,item3,3,_REACTION_TIME_,2890
